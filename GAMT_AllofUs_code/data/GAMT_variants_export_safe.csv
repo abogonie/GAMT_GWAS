@@ -1,0 +1,80 @@
+﻿variant (GRCh38),cDNA (MANE ENST00000252288),protein,consequence,ClinVar,in set,carriers,allele freq,carrier freq (1 in),% of pathogenic alleles,carriers AFR,carriers AMR,carriers EUR,carriers Other
+19-1399793-C-T,c.327G>A,p.(Lys109=),"splice_region_variant,synonymous_variant",pathogenic,P/LP,220,2.05e-04,"1 in 2,439",30.3%,masked,<20,193,<20
+19-1399808-T-TGGGGCCCAGTCCC,c.299_311dup,p.(Arg105GlyfsTer26),frameshift_variant,pathogenic,P/LP,68,6.40e-05,"1 in 7,812",9.4%,<20,<20,masked,<20
+19-1398964-C-T,c.522G>A,p.(Trp174Ter),stop_gained,pathogenic,P/LP,56,5.20e-05,"1 in 9,615",7.7%,<20,<20,masked,<20
+19-1399184-C-T,c.403G>A,p.(Asp135Asn),missense_variant,"likely pathogenic,pathogenic",P/LP,37,3.50e-05,"1 in 14,286",5.1%,0,<20,masked,<20
+19-1401452-TG-T,c.24del,p.(Ile9SerfsTer33),frameshift_variant,"likely pathogenic,pathogenic",P/LP,37,3.50e-05,"1 in 14,286",5.1%,masked,0,<20,0
+19-1401418-C-G,c.59G>C,p.(Trp20Ser),missense_variant,"likely pathogenic,pathogenic",P/LP,37,3.50e-05,"1 in 14,286",5.1%,<20,masked,<20,<20
+19-1401344-A-T,c.133T>A,p.(Trp45Arg),missense_variant,pathogenic,P/LP,35,3.30e-05,"1 in 15,152",4.8%,<20,0,masked,0
+19-1401330-A-C,c.147T>G,p.(Tyr49Ter),stop_gained,not in ClinVar,LoF only,23,2.20e-05,"1 in 22,727",3.2%,<20,<20,<20,<20
+19-1398994-GC-G,c.491del,p.(Gly164AlafsTer14),frameshift_variant,pathogenic,P/LP,20,1.90e-05,"1 in 26,316",2.8%,<20,<20,0,<20
+19-1398994-G-GC,c.491dup,p.(Val165ArgfsTer26),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399818-TC-T,c.301del,p.(Asp101ThrfsTer13),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399588-C-T,c.328-1G>A,,splice_acceptor_variant,"uncertain significance,likely pathogenic",LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399180-G-A,c.407C>T,p.(Thr136Met),missense_variant,"likely pathogenic,pathogenic",P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399005-T-A,c.481A>T,p.(Lys161Ter),stop_gained,"likely pathogenic,pathogenic",P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1398959-TC-T,c.526del,p.(Glu176SerfsTer2),frameshift_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1398980-C-T,c.506G>A,p.(Cys169Tyr),missense_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401475-A-C,c.2T>G,p.?,start_lost,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401476-T-C,c.1A>G,p.?,start_lost,"uncertain significance,pathogenic",LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399831-G-A,c.289C>T,p.(Gln97Ter),stop_gained,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401440-C-CGGGCGCGAAGATGGGGGTCGCGCTGG,c.11_36dup,p.(Gly13ProfsTer38),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399812-GC-G,c.307del,p.(Ala103ProfsTer11),frameshift_variant,"likely pathogenic,pathogenic",P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1398965-C-T,c.521G>A,p.(Trp174Ter),stop_gained,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399859-C-T,c.261G>A,p.(Trp87Ter),stop_gained,"uncertain significance,likely pathogenic,pathogenic",LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397401-G-GT,c.668dup,p.(Tyr223Ter),stop_gained,uncertain significance,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399166-C-A,c.421G>T,p.(Glu141Ter),stop_gained,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399184-C-A,c.403G>T,p.(Asp135Tyr),missense_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1398915-C-T,c.570+1G>A,,splice_donor_variant,uncertain significance,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397401-G-C,c.669C>G,p.(Tyr223Ter),stop_gained,uncertain significance,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401331-TA-T,c.145del,p.(Tyr49IlefsTer65),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401426-GC-G,c.50del,p.(Ser17ThrfsTer25),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399794-TTG-T,c.324_325del,p.(His108GlnfsTer18),"frameshift_variant,splice_region_variant",pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399185-G-C,c.402C>G,p.(Tyr134Ter),stop_gained,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401412-G-GC,c.64dup,p.(Ala22GlyfsTer63),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399144-T-TG,c.442dup,p.(Gln148ProfsTer43),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399017-AG-A,c.468del,p.(Arg158AlafsTer3),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1398960-C-A,c.526G>T,p.(Glu176Ter),stop_gained,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401418-C-CA,c.58dup,p.(Trp20LeufsTer65),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401363-G-GC,c.113dup,p.(Lys39GlnfsTer46),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399558-A-AT,c.356dup,p.(Asp119GlufsTer8),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397480-A-G,c.590T>C,p.(Leu197Pro),missense_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397453-T-TA,c.616_617insT,p.(Asn206IlefsTer61),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401447-GA-G,c.29del,p.(Phe10SerfsTer32),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399127-C-A,c.459+1G>T,,splice_donor_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1398916-CT-C,c.569del,p.(Glu190GlyfsTer22),"frameshift_variant,splice_region_variant",not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1398922-C-A,c.564G>T,p.(Met188Ile),missense_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397442-CCGTA-C,c.624_627del,p.(Thr209ArgfsTer2),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399830-TG-T,c.289del,p.(Gln97SerfsTer17),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399804-G-A,c.316C>T,p.(Gln106Ter),stop_gained,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399791-A-G,c.327+2T>C,,splice_donor_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397404-G-C,c.666C>G,p.(Tyr222Ter),stop_gained,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399589-T-C,c.328-2A>G,,splice_acceptor_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397364-CT-C,c.705del,p.(Gly236AlafsTer67),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399792-C-A,c.327+1G>T,,splice_donor_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397407-GCGGCAGT-G,c.656_662del,p.(Asp219AlafsTer8),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399168-G-T,c.419C>A,p.(Ser140Ter),stop_gained,"likely pathogenic,pathogenic",P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399148-G-A,c.439C>T,p.(His147Tyr),missense_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399171-AGT-A,c.414_415del,p.(Ser140GlyfsTer50),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397493-G-A,c.577C>T,p.(Gln193Ter),stop_gained,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399197-T-C,c.392-2A>G,,splice_acceptor_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1397447-CG-C,c.622del,p.(Arg208ValfsTer4),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399889-C-CT,c.230dup,p.(Val78GlyfsTer7),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399875-G-GCACC,c.244_245insGGTG,p.(Pro82ArgfsTer4),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401342-C-T,c.135G>A,p.(Trp45Ter),stop_gained,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401341-C-CCCAGCGCT,c.128_135dup,p.(Glu46SerfsTer71),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401294-A-C,c.181+2T>G,,splice_donor_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401317-C-G,c.160G>C,p.(Ala54Pro),missense_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401294-A-G,c.181+2T>C,,splice_donor_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399909-TG-T,c.210del,p.(Met71TrpfsTer43),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399900-C-G,c.220G>C,p.(Ala74Pro),missense_variant,likely pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399931-C-CA,c.188_189insT,p.(Val64GlyfsTer21),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399878-G-GATGAT,c.241_242insATCAT,p.(Ala81AspfsTer35),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1399874-G-GATCCTCCT,c.245_246insAGGAGGAT,p.(Ile83GlyfsTer34),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401376-A-AG,c.100dup,p.(Leu34ProfsTer51),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401385-T-TCCGTG,c.91_92insCACGG,p.(Asp31AlafsTer13),frameshift_variant,"uncertain significance,likely pathogenic,pathogenic",LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401418-C-T,c.59G>A,p.(Trp20Ter),stop_gained,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401412-GC-G,c.64del,p.(Ala22ArgfsTer20),frameshift_variant,pathogenic,P/LP,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401422-CG-C,c.54del,p.(Ala19ArgfsTer23),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+19-1401462-GCT-G,c.13_14del,p.(Ser5ArgfsTer79),frameshift_variant,not in ClinVar,LoF only,<20,suppressed,suppressed,suppressed,NA,NA,NA,NA
+All variants with <20 carriers (69 variants),,,,,,192,,,26.5%,,,,

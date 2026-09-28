@@ -1,0 +1,11 @@
+﻿set,ancestry,n_people,n_variants,allele_count,observed_carriers,carrier (1 in),carrier 95% CI,prevalence (1 in),prevalence 95% CI
+ClinVar P/LP,ALL,"535,606",44,628,628,1 in 853,1 in 789 to 1 in 922,"1 in 2,909,588","1 in 2,488,497 to 1 in 3,401,960"
+ClinVar P/LP,AFR,"94,603",11,90,90,"1 in 1,051","1 in 856 to 1 in 1,292","1 in 4,419,665","1 in 2,926,241 to 1 in 6,675,538"
+ClinVar P/LP,AMR,"97,421",15,67,67,"1 in 1,454","1 in 1,145 to 1 in 1,847","1 in 8,457,072","1 in 5,245,382 to 1 in 13,635,781"
+ClinVar P/LP,EUR,"284,719",34,437,437,1 in 652,1 in 594 to 1 in 716,"1 in 1,697,970","1 in 1,407,852 to 1 in 2,047,900"
+ClinVar P/LP,Other combined (EAS/MID/SAS/OTH),"58,862",18,34,34,"1 in 1,731","1 in 1,239 to 1 in 2,419","1 in 11,988,703","1 in 6,140,841 to 1 in 23,406,953"
+P/LP + LoF,ALL,"535,605",78,725,725,1 in 739,1 in 687 to 1 in 795,"1 in 2,183,098","1 in 1,887,489 to 1 in 2,525,021"
+P/LP + LoF,AFR,"94,603",22,108,108,1 in 876,"1 in 726 to 1 in 1,058","1 in 3,069,212","1 in 2,106,256 to 1 in 4,472,603"
+P/LP + LoF,AMR,"97,421",24,81,81,"1 in 1,203","1 in 968 to 1 in 1,495","1 in 5,786,282","1 in 3,746,831 to 1 in 8,936,186"
+P/LP + LoF,EUR,"284,719",51,487,487,1 in 585,1 in 535 to 1 in 639,"1 in 1,367,209","1 in 1,144,862 to 1 in 1,632,761"
+P/LP + LoF,Other combined (EAS/MID/SAS/OTH),"58,862",28,49,49,"1 in 1,202","1 in 909 to 1 in 1,588","1 in 5,772,153","1 in 3,303,628 to 1 in 10,085,859"
